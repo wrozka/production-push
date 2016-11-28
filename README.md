@@ -6,6 +6,7 @@ Have you ever pushed to a wrong remote by accident? Confirm all production pushe
 
 ```sh
 wget https://raw.githubusercontent.com/wrozka/production-push/master/pre-push -O .git/hooks/pre-push
+chmod +x .git/hooks/pre-push
 ```
 
 ### Based on
