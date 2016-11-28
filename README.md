@@ -1,6 +1,6 @@
 ## Pre-Push Hook
 
-Have you ever pushed to wrong remote by accident? Confirm all production pushes.
+Have you ever pushed to a wrong remote by accident? Confirm all production pushes.
 
 ## Install
 
